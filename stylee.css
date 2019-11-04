@@ -110,21 +110,18 @@ h3{ /* The titles h3 */
     clear: left;
     margin-top: 0%;
     padding: 5px 0 8px 0;
-    padding-left: 155px; /*width of left column containing the label elements*/
+    padding-left: 155px; 
     border-top: 1px dashed rgb(255, 255, 255);
     height: 1%;
 }    
-.cssform input[type=&quot;text&quot;]{ /*width of text boxes. IE6 does not understand this attribute*/
+.cssform input[type=&quot;text&quot;]{ 
     width: 180px;
 }
 .cssform textarea{
     width: 250px;
     height: 150px;
 }
-    /*.threepxfix class below:
-    Targets IE6- ONLY. Adds 3 pixel indent for multi-line form contents.
-    to account for 3 pixel bug: http://www.positioniseverything.net/explorer/threepxtest.html
-    */
+
 *html.threepxfix{
     margin-left: 3px;
 } 
@@ -132,7 +129,7 @@ h3{ /* The titles h3 */
     font-weight: bold;
     float: left;
     color: white;
-    margin-left: -155px; /*width of left column*/
+    margin-left: -155px;
     width: 150px;
 }
 .joueurs{
