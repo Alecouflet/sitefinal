@@ -62,41 +62,41 @@ html {
     float: left;
     width: 25%;
 }
-.langues{    /* */
-    font-weight: bold;  /* Weight of the font */
+.langues{    
+    font-weight: bold;  
     float: left;
     width: 25%;
     padding-top:2.5%;
 }
-.section-droite{    /* */
+.section-droite{    
     padding-top: 0.2%;
     margin-left:25%;
     width: 75%;
 }
-strong{ /* Text in bold */
-    font-size: 26px;    /* Font size in bold */
+strong{ 
+    font-size: 26px;   
 }
-h3{ /* The titles h3 */
-    font-size: 28px;    /* Font Size of the H3 Titles */
-    color: #3388bb; /* Title color h3 */
-    text-transform: uppercase;  /* Text Transformation of H3 Titles */
-    border-bottom: 3px solid #3388DD;   /* Size and color of the bottom border */
+h3{ 
+    font-size: 28px;   
+    color: #3388bb; 
+    text-transform: uppercase;  
+    border-bottom: 3px solid #3388DD;  
     margin-bottom: 2%;
     margin-top: 2%;
 }
-#forma-gauche p{    /*  */
-    margin-bottom: 37px;    /* Bottom margin of all left sections */
+#forma-gauche p{    
+    margin-bottom: 37px;    
 }
-.cvpage{  /* */
-    width: 50%;   /* Size of the page width */
+.cvpage{  
+    width: 50%;   
     height: 100%;
-    margin-left: 15%;   /* Auto Page Margin */
-    font-size: 16px;    /* Size of the text of the page */
-    font-family: 'Source sans Pro', Tahoma, sans-serif; /* Text type of the page */
-    padding: 40px;  /* Padding / Contouring of the page */
-    border: 5px solid #3388CC;  /* Size and color of the page border */
-    border-radius: 10px;    /* Radius of the border of the page */
-    box-shadow: 2px 4px 3px black;  /* Size and color of the shadows of the page */
+    margin-left: 15%;   
+    font-size: 16px;  
+    font-family: 'Source sans Pro', Tahoma, sans-serif;
+    padding: 40px; 
+    border: 5px solid #3388CC;  
+    border-radius: 10px;   
+    box-shadow: 2px 4px 3px black;  
     background-image: url(https://image.noelshack.com/fichiers/2019/44/6/1572715411-fond.png);
     margin-bottom: 5%;
 }
